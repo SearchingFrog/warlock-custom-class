@@ -1,6 +1,0 @@
-C:\Documents and Settings\kurawesn\Desktop\Classes\Picklock_Final_Rbot\Picklock_Final_Rbot\bin\Release\Picklock_Final_Rbot.dll
-C:\Documents and Settings\kurawesn\Desktop\Classes\Picklock_Final_Rbot\Picklock_Final_Rbot\bin\Release\Picklock_Final_Rbot.pdb
-C:\Documents and Settings\kurawesn\Desktop\Classes\Picklock_Final_Rbot\Picklock_Final_Rbot\bin\Release\GRefs.dll
-C:\Documents and Settings\kurawesn\Desktop\Classes\Picklock_Final_Rbot\Picklock_Final_Rbot\obj\Release\ResolveAssemblyReference.cache
-C:\Documents and Settings\kurawesn\Desktop\Classes\Picklock_Final_Rbot\Picklock_Final_Rbot\obj\Release\Picklock_Final_Rbot.dll
-C:\Documents and Settings\kurawesn\Desktop\Classes\Picklock_Final_Rbot\Picklock_Final_Rbot\obj\Release\Picklock_Final_Rbot.pdb
