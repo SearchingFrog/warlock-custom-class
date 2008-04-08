@@ -1,0 +1,6 @@
+C:\Documents and Settings\kurawesn\Desktop\classes\CustomClass\CustomClass\CustomClass\bin\Debug\CustomClass.dll
+C:\Documents and Settings\kurawesn\Desktop\classes\CustomClass\CustomClass\CustomClass\bin\Debug\CustomClass.pdb
+C:\Documents and Settings\kurawesn\Desktop\classes\CustomClass\CustomClass\CustomClass\bin\Debug\GRefs.dll
+C:\Documents and Settings\kurawesn\Desktop\classes\CustomClass\CustomClass\CustomClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kurawesn\Desktop\classes\CustomClass\CustomClass\CustomClass\obj\Debug\CustomClass.dll
+C:\Documents and Settings\kurawesn\Desktop\classes\CustomClass\CustomClass\CustomClass\obj\Debug\CustomClass.pdb
