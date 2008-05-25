@@ -1,8 +1,8 @@
 #labels Featured
 =Details=
 [http://warlock-custom-class.googlecode.com/files/PicLock218.zip Version 2.18]
-Current Beta version 2.18 - RecursiveBot
- 
+
+
   # adding in functionality for future updates
   # rewrote/cleaned functions left over from DJRage mounting implementation in past versions
   # implemented a cleaner looking set of functions to deal with in the future
