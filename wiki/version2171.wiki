@@ -1,6 +1,6 @@
 #labels Featured
 =Details=
-[http://http://warlock-custom-class.googlecode.com/files/Piclock%202_17_1a.zip Version 2.17.1]
+[http://warlock-custom-class.googlecode.com/files/Piclock%202_17_1a.zip Version 2.17.1]
 ==Overall Update: ==
       This update is for fixes and tests to a few tweaked systems and has only been tested in PVE. I have not tested in a pvp condition in any fashion.  So use at your own risk when it comes to those or atleast use and let us know what went wrong. This beta includes a reworked distance mounting functionality read the notes below.
 
