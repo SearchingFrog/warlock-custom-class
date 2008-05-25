@@ -1,0 +1,14 @@
+#labels Featured
+=Details=
+[http://warlock-custom-class.googlecode.com/files/PicLock218.zip Version 2.17.1]
+Current Beta version 2.18 - RecursiveBot
+ 
+  # adding in functionality for future updates
+  # rewrote/cleaned functions left over from DJRage mounting implementation in past versions
+  # implemented a cleaner looking set of functions to deal with in the future
+  # added comments...then some more comments...and some more comments
+  # exception handling
+    #the exception handling is very weak, but should catch most of the ones happening in Version 2.17.1
+  # changed functionality of the CountSoulShards() to update the variable,soulshardcount, during the function call
+  # added the ability to stop on level 
+  # reworked a major portion of the config options
